@@ -1,0 +1,28 @@
+.height-container-four{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    gap: 7rem;
+}
+.headAndReset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+.height-longest-four{
+    width: 2rem;
+    height: 24rem;
+    background-color: skyblue;
+}
+.height-middle-four{
+    width: 2rem;
+    height: 12rem;
+    background-color: skyblue;   
+}
+.height-shortest-four{
+    width: 2rem;
+    height: 6rem;
+    background-color: skyblue;
+}

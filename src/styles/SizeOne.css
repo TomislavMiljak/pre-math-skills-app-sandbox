@@ -1,0 +1,30 @@
+/* TaskOne styling */
+.size-container-one{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10rem;
+  }
+  .headAndReset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+  .size-smaller-one {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: yellow;
+    width: 5rem;
+    height: 5rem;
+  }
+  
+  .size-bigger-one {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: yellow;
+    width: 10rem;
+    height: 10rem;
+  }

@@ -1,0 +1,30 @@
+.difference-container-two{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5rem;
+  }
+  .headAndReset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+  .diff-two-rectangle {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: pink;
+    width: 5rem;
+    height: 15rem;
+  }
+  
+  .diff-two-square {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: pink;
+    width: 5rem;
+    height: 5rem;
+    
+  }

@@ -1,0 +1,26 @@
+/* LengthOne styling */
+.length-container-one{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 7rem;
+    gap: 7rem;
+}
+.headAndReset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+.shorter{
+    width: 20rem;
+    height: 2rem;
+    background-color: lightblue;
+}
+
+.longer{
+    width: 40rem;
+    height: 2rem;
+    background-color: lightblue;
+}    

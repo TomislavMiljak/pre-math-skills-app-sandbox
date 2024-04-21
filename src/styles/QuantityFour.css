@@ -1,0 +1,61 @@
+.quantity-container-four{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    width: 70rem;
+    height: 20rem;
+    gap: 5rem;
+
+  }
+  .headAndReset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+
+ 
+  .quant-four-less .quant-four-div-container #div, 
+  .quant-four-more .quant-four-div-container #div{
+     width: 2rem;
+     height: 2rem;
+     border-radius: 50%;
+     background-color: yellowgreen;
+  }
+
+  .quant-four-less{
+   position: relative;
+   background-color: lightcoral;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+    border: 5px solid yellowgreen;
+    padding: 4rem;
+
+ }
+
+ .quant-four-more{
+   position: relative;
+   background-color: lightcoral;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+    border: 5px solid yellowgreen;
+    padding: 4rem;
+
+ }
+
+ .quant-four-div-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: 2rem;
+ }

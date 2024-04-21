@@ -1,0 +1,38 @@
+/* TaskTwo styling */
+.size-container-two{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5rem;
+    padding-bottom: 2rem;
+  }
+  .headAndReset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+  .size-smallest-two {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: yellow;
+    width: 5rem;
+    height: 5rem;
+  }
+  .size-middle-two {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: yellow;
+    width: 10rem;
+    height: 10rem;
+  }
+  .size-biggest-two {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: yellow;
+    width: 15rem;
+    height: 15rem;
+  }

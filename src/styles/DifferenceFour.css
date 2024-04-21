@@ -1,0 +1,32 @@
+.difference-container-four{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+  }
+  .headAndReset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+  .diff-four-rounded-long {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: pink;
+    width: 5rem;
+    height: 25rem;
+    border-radius: 50%;
+  }
+  
+  .diff-four-rounded-short{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: pink;
+    width: 5rem;
+    height: 10rem;
+    border-radius: 50%;
+    
+  }

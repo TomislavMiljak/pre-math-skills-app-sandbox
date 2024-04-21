@@ -1,0 +1,31 @@
+.difference-container-one{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 9rem;
+  }
+  .headAndReset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+  .diff-one-straight-lined {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: pink;
+    width: 5rem;
+    height: 5rem;
+  }
+  
+  .diff-one-rounded {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: pink;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+  }
+

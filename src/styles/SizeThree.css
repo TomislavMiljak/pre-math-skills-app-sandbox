@@ -1,0 +1,38 @@
+/* TaskThree styling */
+.size-container-three{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5rem;
+    padding-bottom: 2rem;
+  }
+  .headAndReset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+  .size-smallest-three {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: yellow;
+    width: 5rem;
+    height: 5rem;
+  }
+  .size-middle-three {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: yellow;
+    width: 10rem;
+    height: 10rem;
+  }
+  .size-biggest-three {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: yellow;
+    width: 15rem;
+    height: 15rem;
+  }

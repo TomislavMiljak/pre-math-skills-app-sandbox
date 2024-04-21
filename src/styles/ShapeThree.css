@@ -1,0 +1,30 @@
+.shape-container-three{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 3rem;
+  }
+  .headAndReset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+  .shape-three-straight-lined {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: lightgreen;
+    width: 10rem;
+    height: 20rem;
+  }
+  
+  .shape-three-rounded {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: lightgreen;
+    width: 10rem;
+    height: 20rem;
+    border-radius: 50%;
+  }

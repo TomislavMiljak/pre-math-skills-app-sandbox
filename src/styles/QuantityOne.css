@@ -1,0 +1,61 @@
+.quantity-container-one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    width: 70rem;
+    height: 20rem;
+    gap: 5rem;
+
+  }
+  .headAndReset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+
+ 
+ .quant-one-less .quant-one-div-container #div, 
+ .quant-one-more .quant-one-div-container #div{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 50%;
+    background-color: yellowgreen;
+ }
+
+
+ .quant-one-less{
+   position: relative;
+   background-color: lightcoral;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+    border: 5px solid yellowgreen;
+    padding: 4rem;
+
+ }
+
+ .quant-one-more{
+   position: relative;
+   background-color: lightcoral;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    width: 15rem;
+    height: 15rem;
+    border-radius: 50%;
+    border: 5px solid yellowgreen;
+    padding: 4rem;
+
+ }
+
+ .quant-one-div-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem;
+ }

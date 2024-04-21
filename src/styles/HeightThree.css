@@ -1,0 +1,28 @@
+.height-container-three{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    gap: 7rem;
+}
+.headAndReset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+.height-longest-three{
+    width: 2rem;
+    height: 24rem;
+    background-color: skyblue;
+}
+.height-middle-three{
+    width: 2rem;
+    height: 16rem;
+    background-color: skyblue;   
+}
+.height-shortest-three{
+    width: 2rem;
+    height: 8rem;
+    background-color: skyblue;
+}

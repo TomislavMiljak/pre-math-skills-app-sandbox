@@ -1,0 +1,123 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+/* .layout-container{
+  background-color: aquamarine;
+  width: 70rem;
+  height: 50rem;
+  padding: 2rem;
+}
+
+.layout-container ul {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  gap: 2rem;
+  list-style-type: none; 
+  padding: 2rem;
+  
+}
+
+
+.li {
+display: flex;
+text-decoration-style: none 
+}
+
+.home p {
+  font-size: 30px;
+}
+
+.button-container-one{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10rem;
+}
+.smaller {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: yellow;
+  width: 5rem;
+  height: 5rem;
+}
+
+.bigger {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: yellow;
+  width: 10rem;
+  height: 10rem;
+}
+
+
+.button-container-two{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10rem;
+  padding-bottom: 2rem;
+}
+.smallest-two {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: red;
+  width: 5rem;
+  height: 5rem;
+}
+.middle-two {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: red;
+  width: 10rem;
+  height: 10rem;
+}
+.biggest-two {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: red;
+  width: 15rem;
+  height: 15rem;
+}
+
+
+.button-container-three{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10rem;
+  padding-bottom: 2rem;
+}
+.smallest-three {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: blue;
+  width: 5rem;
+  height: 5rem;
+}
+.middle-three {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: blue;
+  width: 10rem;
+  height: 10rem;
+}
+.biggest-three {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  background-color: blue;
+  width: 15rem;
+  height: 15rem;
+} */

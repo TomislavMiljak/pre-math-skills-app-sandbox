@@ -1,0 +1,26 @@
+/* LengthTwo styling */
+.length-container-two{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 7rem;
+    gap: 7rem;
+}
+.headAndReset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+.longer-two{
+    width: 40rem;
+    height: 2rem;
+    background-color: lightblue;
+}
+
+.shorter-two{
+    width: 20rem;
+    height: 2rem;
+    background-color: lightblue;
+}

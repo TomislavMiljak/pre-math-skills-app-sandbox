@@ -1,0 +1,29 @@
+.length-container-four{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 2rem;
+    gap: 7rem;
+}
+.headAndReset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+.longest-four{
+    width: 60rem;
+    height: 2rem;
+    background-color: lightblue;
+}
+.middle-four{
+    width: 40rem;
+    height: 2rem;
+    background-color: lightblue;   
+}
+.shortest-four{
+    width: 20rem;
+    height: 2rem;
+    background-color: lightblue;
+}

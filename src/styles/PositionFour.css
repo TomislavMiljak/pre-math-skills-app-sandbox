@@ -1,0 +1,37 @@
+.positionFourContainer{
+    position: relative;
+  }
+  .position-container-four{
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding: 10rem;
+    }
+    .headAndReset{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 4rem;
+    }
+    .left-four {
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      background-color: orange;
+      width: 5rem;
+      height: 5rem;
+      position: absolute;
+      margin: 0px 305px 0px 5px;
+    }
+    
+    .right-four {
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      background-color: orange;
+      width: 5rem;
+      height: 5rem;
+      position: absolute;
+      margin: 0px 5px 0px 305px;
+      
+    }

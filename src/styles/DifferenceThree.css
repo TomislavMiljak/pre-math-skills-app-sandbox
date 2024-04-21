@@ -1,0 +1,31 @@
+.difference-container-three{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 5rem;
+  }
+  .headAndReset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+  }
+  .diff-three-rounded {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: pink;
+    width: 5rem;
+    height: 15rem;
+    border-radius: 50%;
+  }
+  
+  .diff-three-straight-lined {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: pink;
+    width: 5rem;
+    height: 15rem;
+    
+  }
